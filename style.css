@@ -1,0 +1,13 @@
+.heading {
+
+    width: 500px;
+    
+}
+body{
+    background-color: aqua;
+}
+
+#output,#camera{
+    width: 350px;
+    height: 300px;
+}
